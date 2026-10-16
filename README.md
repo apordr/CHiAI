@@ -1,0 +1,2 @@
+# CHiAI
+AI club AI
